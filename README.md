@@ -35,4 +35,4 @@ Franz
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/SSSerpenttt/ETHAssessment_ETHBeginnerProof/blob/main/LICENSE) file for details
+This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/SSSerpenttt/AVAX-Intermediate---Module-3-Project/blob/main/LICENSE) file for details
