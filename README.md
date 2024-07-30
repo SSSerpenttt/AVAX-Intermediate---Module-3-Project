@@ -22,7 +22,7 @@ Once the contract is deployed, expand the drop down bar of your deployed contrac
 - mint: Takes in an address and an integer input. Mints a specified value of tokens for a specified contract.
 - burn: Takes in an integer input. Burns a specified amount of tokens for the current address.
 
-##Video Demos
+## Video Demos
 - **[Part 1](https://www.loom.com/share/f6ef2f744999423f8afcb4b94fe693f5?sid=28e9991b-a344-4a57-a9c0-370610684fff)**
 - **[Part 2](https://www.loom.com/share/cc04dbb38fea456f9021a8aed00f61b9?sid=2595fdc9-6fbb-4b10-ba0d-0166771b1f7d)**
 - **[Part 3](https://www.loom.com/share/0ecdccc7bfe54f259d43e00d34bcaa1b?sid=ac7d959e-0de5-4871-bdb9-e771ebe2fea0)**
